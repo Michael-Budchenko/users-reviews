@@ -1,6 +1,6 @@
-import layoutImg from '@/assets/images/layout.jpg';
 import TestimonialSlider from '@/components/ui/Carousel';
 import { Fragment } from 'react/jsx-runtime';
+import layoutImg from '/images/layout.jpg';
 
 const Home = () => {
   return (
